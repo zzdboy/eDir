@@ -1,0 +1,2 @@
+# eDir
+Goang fyne GUI
